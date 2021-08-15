@@ -1,6 +1,6 @@
-package examples.prototype;
+package examples.creational.prototype;
 
-import examples.prototype.properimplementation.TemplateRegistry;
+import examples.creational.prototype.properimplementation.TemplateRegistry;
 
 public class PrototypeDemo {
 

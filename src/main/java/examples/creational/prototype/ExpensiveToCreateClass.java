@@ -1,4 +1,4 @@
-package examples.prototype;
+package examples.creational.prototype;
 
 import java.time.LocalDateTime;
 

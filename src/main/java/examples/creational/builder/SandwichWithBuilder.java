@@ -1,4 +1,4 @@
-package examples.builder;
+package examples.creational.builder;
 
 public class SandwichWithBuilder {
 

@@ -1,4 +1,4 @@
-package examples.prototype.properimplementation;
+package examples.creational.prototype.properimplementation;
 
 public abstract class Item implements Cloneable{
 

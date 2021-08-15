@@ -1,4 +1,4 @@
-package examples.prototype.properimplementation;
+package examples.creational.prototype.properimplementation;
 
 import java.time.Duration;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package examples.singleton;
+package examples.creational.singleton;
 
 public class LazyNonThreadsafeSingleton {
 

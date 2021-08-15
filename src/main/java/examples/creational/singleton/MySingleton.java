@@ -1,4 +1,4 @@
-package examples.singleton;
+package examples.creational.singleton;
 
 //singleton should not be static class (thread safety)
 public class MySingleton {
